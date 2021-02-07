@@ -14,3 +14,15 @@ Ai ele vai criar um documento que la vai se armazenar as coisa que tu escrever.
 
 
 Simples
+
+
+
+
+Caso de erro na linha dois 
+Execute:
+
+sudo apt-get update
+
+sudo apt-get install pip
+
+pip3 install pynput
