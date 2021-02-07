@@ -1,4 +1,4 @@
-# KeyLoggerBaico
+# KeyLoggerBasico
 KeyLogger feito em python ( apenas para uso pessoal, feito para kali linux..., mas se alguém quiser mexer to dê boa)
 
 
